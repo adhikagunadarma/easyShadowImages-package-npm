@@ -13,7 +13,7 @@ Then...
 ```
 import {easyShadowImages} from easyshadowimages
 easyShadowImages({
-    shadow_weight : 'high',
+    shadow_weight : 'low',
     shadow_padding : 'min'
 });
 
