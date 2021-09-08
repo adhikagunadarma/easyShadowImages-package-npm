@@ -1,0 +1,23 @@
+{
+  "name": "easyshadowimages-test",
+  "version": "1.0.0",
+  "description": "Update your images to get some shadows. Best tools used to work with non-designer. A customized reference source code from DesignCourse Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhikagunadarma/easyShadowImages-package-npm.git"
+  },
+  "keywords": [
+    "shadow",
+    "npm"
+  ],
+  "author": "adhika gunadarma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhikagunadarma/easyShadowImages-package-npm/issues"
+  },
+  "homepage": "https://github.com/adhikagunadarma/easyShadowImages-package-npm#readme"
+}
