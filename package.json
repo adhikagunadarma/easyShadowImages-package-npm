@@ -1,6 +1,6 @@
 {
   "name": "easyshadowimages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Update your images to get some shadows. Best tools used to work with non-designer. A customized reference source code from DesignCourse Tutorial",
   "main": "index.js",
   "scripts": {
