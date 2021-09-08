@@ -18,6 +18,10 @@ easyShadowImages({
 });
 
 ```
+
+`<img src="" alt="" class="shadow-images"></img>`
+
+
 ## Options
 
 Easy Shadow Images supports 2 options, both are which optional : 
