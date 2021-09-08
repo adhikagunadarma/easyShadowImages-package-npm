@@ -47,7 +47,7 @@ function setupShadowPadding(type){
             shadowPadding = '0em'
             break;
     }
-    return shadowWeight
+    return shadowPadding
 }
 
 module.exports.easyshadowimages = easyShadowImages
